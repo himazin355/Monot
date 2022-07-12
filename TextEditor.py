@@ -36,7 +36,7 @@ class TextEditor(QMainWindow):
 
     def save(self):
         #今度セーブ機能を作る
-        print("セーブボタンが押された")
+        print("セーブボタンが押されました")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
