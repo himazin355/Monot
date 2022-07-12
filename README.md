@@ -7,3 +7,11 @@ There isn‘t even a save function.
 Monot aims to be a text editor for programming.
 
 Therefore, I want to make it a lightweight and multifunctional text editor.
+Features we would like to implement in the future include the following: 
+* Syntax highlights
+* Save
+* Git
+* Markdown
+* Run Python
+* Text completion 
+* Preview files
