@@ -1,2 +1,2 @@
 # Monot
-A text editor for programming
+This is a text editor for programming.
